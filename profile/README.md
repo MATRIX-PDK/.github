@@ -12,7 +12,7 @@ for advanced memory and logic technologies.
 
 | Repository | Technology | What it provides |
 |---|---|---|
-| [**MATRIX-A5-ver1**](https://github.com/MATRIX-PDK/MATRIX-A5-ver1) | 2-tier complementary FET (CFET) logic at the A5 node | Five standard-cell libraries with backside power delivery and CFlex track mixing — Liberty, LEF, GDS, Cadence QRC and Synopsys StarRC extraction tech, DRC/LVS runsets, and BSIM-CMG device cards for a complete RTL-to-GDSII flow |
+| [**MATRIX-PDK-CFET-A5-V1**](https://github.com/MATRIX-PDK/MATRIX-PDK-CFET-A5-V1) | 2-tier complementary FET (CFET) logic at the A5 node | Five standard-cell libraries with backside power delivery and CFlex track mixing — Liberty, LEF, GDS, Cadence QRC and Synopsys StarRC extraction tech, DRC/LVS runsets, and BSIM-CMG device cards for a complete RTL-to-GDSII flow |
 | [**OpenDRAMmodelV1**](https://github.com/MATRIX-PDK/OpenDRAMmodelV1) | DRAM access and high-voltage periphery transistors | Device models for 6F² / 4F² / 3D DRAM |
 
 A 3D NAND platform is in preparation.
